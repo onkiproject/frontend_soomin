@@ -1,0 +1,184 @@
+@font-face {
+    font-family: 'Friem-Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Friem Regular'), url('friem-regular.woff') format('woff');
+    }
+@font-face {
+    font-family: 'MapoBackpacking-Regular';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoBackpackingA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@import url("https://cdn.jsdelivr.net/gh/sun-typeface/SUIT/fonts/static/woff2/SUIT.css");
+
+.light,
+.light * {
+  box-sizing: border-box;
+}
+.light {
+  background: #fff8ef;
+  height: 852px;
+  position: relative;
+  overflow: hidden;
+}
+.group-4 {
+  position: absolute;
+  inset: 0;
+}
+.logo {
+  width: 177px;
+  height: 77px;
+  position: static;
+}
+.o {
+  color: #229c5a;
+  text-align: left;
+  font-family: "Friem-Regular", sans-serif;
+  font-size: 70px;
+  font-weight: 400;
+  position: absolute;
+  left: 108px;
+  top: 306px;
+}
+.n {
+  color: #ff238d;
+  text-align: left;
+  font-family: "Friem-Regular", sans-serif;
+  font-size: 70px;
+  font-weight: 400;
+  position: absolute;
+  left: 160px;
+  top: 295px;
+}
+.k {
+  color: #ffbd12;
+  text-align: left;
+  font-family: "Friem-Regular", sans-serif;
+  font-size: 70px;
+  font-weight: 400;
+  position: absolute;
+  left: 211px;
+  top: 306px;
+}
+.i {
+  color: #4535ff;
+  text-align: left;
+  font-family: "Friem-Regular", sans-serif;
+  font-size: 70px;
+  font-weight: 400;
+  position: absolute;
+  left: 264px;
+  top: 295px;
+}
+.rectangle-2 {
+  background: var(--green, #229c5a);
+  border-radius: 10px;
+  width: 186px;
+  height: 38px;
+  position: absolute;
+  left: calc(50% - 92.5px);
+  top: 509px;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.1),
+    0px 7px 7px 0px rgba(0, 0, 0, 0.09), 0px 16px 9px 0px rgba(0, 0, 0, 0.05),
+    0px 28px 11px 0px rgba(0, 0, 0, 0.01), 0px 44px 12px 0px rgba(0, 0, 0, 0);
+}
+.div {
+  color: #ffffff;
+  text-align: left;
+  font-family: "SuitVariable-ExtraBold", sans-serif;
+  font-size: 13px;
+  font-weight: 800;
+  position: absolute;
+  left: calc(50% - 24.5px);
+  top: 520px;
+}
+.textbox input[name="code"] {
+    width: 294px;
+    height: 40px;
+    padding: 10px;
+    position: absolute;
+    box-sizing: border-box;
+    margin-bottom: 16px;
+    border-radius: 10px;
+    background-color: rgba(217, 217, 217, 0.5);
+    left: calc(50% - 146.5px);
+    top: 401px;
+    border: 0px;
+}
+.textbox input[name="password"] {
+  width: 294px;
+  height: 40px;
+  padding: 10px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-bottom: 16px;
+  border-radius: 10px;
+  background-color: rgba(217, 217, 217, 0.5);
+  left: calc(50% - 146.5px);
+  top: 447px;
+  border: 0px;
+}
+.textbox input[placeholder="방 코드를 입력해주세요."]{
+    color: #848484;
+    text-align: left;
+    font-family: "SuitVariable-Medium", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    /* position: absolute;
+    left: 107px;
+    top: 414px; */
+}
+.key {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 72px;
+  top: 409px;
+  overflow: visible;
+}
+.div2 {
+  text-align: center;
+  font-family: "MapoBackpacking-Regular", sans-serif;
+  font-size: 13px;
+  line-height: 0undefined;
+  letter-spacing: -0.03em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 57.5px);
+  top: 570px;
+}
+.div-2-span { 
+  color: #000000;
+  font-family: "MapoBackpacking-Regular", sans-serif;
+  font-size: 13px;
+  letter-spacing: -0.03em;
+  font-weight: 400;
+}
+.div-2-span2 {
+  color: var(--blue, #4535ff);
+  font-family: "MapoBackpacking-Regular", sans-serif;
+  font-size: 13px;
+  line-height: 17px;
+  letter-spacing: -0.03em;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.div3 {
+  color: #848484;
+  text-align: left;
+  font-family: "SuitVariable-Medium", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  position: absolute;
+  left: 107px;
+  top: 414px;
+}
+.frame-2 {
+  width: 77px;
+  height: 16px;
+  position: absolute;
+  left: 159px;
+  top: 545px;
+  overflow: hidden;
+}
